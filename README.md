@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Jack
-- 👀 I’m interested in Javascript
-- 🌱 I’m currently learning WebGL
-- 💞️ I’m looking to collaborate on WebGL tools
-- 📫 How to reach me Email: good.jackk@gmail.com
-
+- 👀 I’m interested in **Front-End Architecture, 3D Visualization (Three.js/Cesium), and GIS Systems**
+- 🌱 I’m currently diving deeper into **Advanced WebGL** & **"3D + AI" Engineering**
+- 💞️ I’m looking to collaborate on **WebGL tools, Cross-platform Rendering, and Open-Source GIS solutions**
+- 📫 How to reach me: **good.jackk@gmail.com**
